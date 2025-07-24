@@ -24,15 +24,6 @@ A cloud enthusiast 🌩️ and IT whiz 🧙‍♂️.<br>Thanks for visiting and
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:activity-->
 
 <!--
