@@ -24,6 +24,10 @@ A cloud enthusiast 🌩️ and IT whiz 🧙‍♂️.<br>Thanks for visiting and
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4455](https://github.com/github/gitignore/pull/4455#issuecomment-3089153840) in [github/gitignore](https://github.com/github/gitignore)
+2. 🗣 Commented on [#4455](https://github.com/github/gitignore/pull/4455#issuecomment-3089059905) in [github/gitignore](https://github.com/github/gitignore)
+3. 🎉 Merged PR [#10](https://github.com/RScrafted/github-entra-sso-integration/pull/10) in [RScrafted/github-entra-sso-integration](https://github.com/RScrafted/github-entra-sso-integration)
+4. 💪 Opened PR [#10](https://github.com/RScrafted/github-entra-sso-integration/pull/10) in [RScrafted/github-entra-sso-integration](https://github.com/RScrafted/github-entra-sso-integration)
 <!--END_SECTION:activity-->
 
 <!--
