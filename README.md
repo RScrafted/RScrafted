@@ -1,25 +1,37 @@
+### whoami
+I'm Rachit!<br>
+A cloud enthusiast ☁️ --enjoy building solutions that are simple, scalable, and meaningful.
 
-
-### 💫 About Me:
-A cloud enthusiast 🌩️ and IT whiz 🧙‍♂️.<br>Thanks for visiting and feel free to connect! 🚀
-
-### 💻 Tech Stack:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rscrafted&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rscrafted&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rscrafted&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=RScrafted&icon=3&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Languages and Tools:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="powershell" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/github-actions.svg" alt="github actions" width="40" height="40"/>
+  </a>
+</p>
 
 ### :zap: Recent Activity
 
@@ -29,6 +41,25 @@ A cloud enthusiast 🌩️ and IT whiz 🧙‍♂️.<br>Thanks for visiting and
 3. 🎉 Merged PR [#10](https://github.com/RScrafted/github-entra-sso-integration/pull/10) in [RScrafted/github-entra-sso-integration](https://github.com/RScrafted/github-entra-sso-integration)
 4. 💪 Opened PR [#10](https://github.com/RScrafted/github-entra-sso-integration/pull/10) in [RScrafted/github-entra-sso-integration](https://github.com/RScrafted/github-entra-sso-integration)
 <!--END_SECTION:activity-->
+
+<details>
+    <summary>Click to view my GitHub stats</summary>
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rscrafted&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rscrafted&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rscrafted&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
+
+### Let's Connect
+Feel free to reach out if you want to collaborate, chat tech, or just say hi.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=RScrafted&icon=3&color=6)](https://visitcount.itsvg.in)
 
 <!--
 **RScrafted/RScrafted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
