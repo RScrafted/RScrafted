@@ -6,16 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - uses: actions/checkout@v4
-
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: 5
+      
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ":zap: Update README with the recent activity"
