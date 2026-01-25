@@ -17,3 +17,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@v0.4.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: ":zap: Update README with the recent activity"
+          EMPTY_COMMIT_MSG: ":memo: Empty commit to keep workflow active"
