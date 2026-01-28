@@ -21,3 +21,10 @@ jobs:
         with:
           COMMIT_MSG: ":zap: Update README with the recent activity"
           EMPTY_COMMIT_MSG: ":memo: Empty commit to keep workflow active"
+          FILTER_EVENTS: > 
+            IssueCommentEvent,
+            IssuesEvent,
+            PullRequestEvent,
+            PullRequestReviewEvent,
+            PushEvent,
+            ReleaseEvent
