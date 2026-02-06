@@ -63,7 +63,6 @@ A cloud enthusiast ☁️ --enjoy building solutions that are simple, scalable, 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <details>
