@@ -63,7 +63,7 @@ A cloud enthusiast ☁️ --enjoy building solutions that are simple, scalable, 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Terraform ALB+EC2 Reference v0.1.0 (Pre-release)](https://github.com/RScrafted/terraform-aws-baseline/releases/tag/v0.1.0) in [RScrafted/terraform-aws-baseline](https://github.com/RScrafted/terraform-aws-baseline)
+1. 🚀 Published release [v1.0.0](https://github.com/RScrafted/terraform-aws-baseline/releases/tag/v1.0.0) in [RScrafted/terraform-aws-baseline](https://github.com/RScrafted/terraform-aws-baseline)
 2. 🎉 Merged PR [#13](https://github.com/RScrafted/RScrafted/pull/13) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
 3. 💪 Opened PR [#13](https://github.com/RScrafted/RScrafted/pull/13) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
 4. 🎉 Merged PR [#12](https://github.com/RScrafted/RScrafted/pull/12) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
