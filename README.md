@@ -63,11 +63,11 @@ A cloud enthusiast ☁️ --enjoy building solutions that are simple, scalable, 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0 – Initial Jenkins Pipeline Setup](https://github.com/RScrafted/jenkins-playground/releases/tag/v0.1.0) in [RScrafted/jenkins-playground](https://github.com/RScrafted/jenkins-playground)
-2. 🎉 Merged PR [#13](https://github.com/RScrafted/RScrafted/pull/13) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
-3. 💪 Opened PR [#13](https://github.com/RScrafted/RScrafted/pull/13) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
-4. 🎉 Merged PR [#12](https://github.com/RScrafted/RScrafted/pull/12) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
-5. 💪 Opened PR [#12](https://github.com/RScrafted/RScrafted/pull/12) in [RScrafted/RScrafted](https://github.com/RScrafted/RScrafted)
+1. 💪 Opened PR [#9279](https://github.com/jenkins-infra/jenkins.io/pull/9279) in [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io)
+2. 🚀 Published release [v1.1.0 - Automated Declarative CI/CD Pipeline Integration](https://github.com/RScrafted/java-webapp/releases/tag/v1.1.0) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
+3. 🎉 Merged PR [#13](https://github.com/RScrafted/java-webapp/pull/13) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
+4. 🔒 Closed issue [#12](https://github.com/RScrafted/java-webapp/issues/12) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
+5. 💪 Opened PR [#13](https://github.com/RScrafted/java-webapp/pull/13) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
 <!--END_SECTION:activity-->
 
 <details>
