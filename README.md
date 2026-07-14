@@ -63,11 +63,11 @@ A cloud enthusiast ☁️ --enjoy building solutions that are simple, scalable, 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9279](https://github.com/jenkins-infra/jenkins.io/pull/9279) in [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io)
-2. 🚀 Published release [v1.1.0 - Automated Declarative CI/CD Pipeline Integration](https://github.com/RScrafted/java-webapp/releases/tag/v1.1.0) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
-3. 🎉 Merged PR [#13](https://github.com/RScrafted/java-webapp/pull/13) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
-4. 🔒 Closed issue [#12](https://github.com/RScrafted/java-webapp/issues/12) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
-5. 💪 Opened PR [#13](https://github.com/RScrafted/java-webapp/pull/13) in [RScrafted/java-webapp](https://github.com/RScrafted/java-webapp)
+1. 🎉 Merged PR [#25553](https://github.com/docker/docs/pull/25553) in [docker/docs](https://github.com/docker/docs)
+2. 🗣 Commented on [#9279](https://github.com/jenkins-infra/jenkins.io/pull/9279#issuecomment-4963710282) in [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io)
+3. 💪 Opened PR [#25553](https://github.com/docker/docs/pull/25553) in [docker/docs](https://github.com/docker/docs)
+4. 🗣 Commented on [#9279](https://github.com/jenkins-infra/jenkins.io/pull/9279#issuecomment-4960808472) in [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io)
+5. 🗣 Commented on [#9279](https://github.com/jenkins-infra/jenkins.io/pull/9279#issuecomment-4960318388) in [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io)
 <!--END_SECTION:activity-->
 
 <details>
