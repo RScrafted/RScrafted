@@ -1,11 +1,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/RScrafted/aws-infrastructure-baseline/issues/5) in [RScrafted/aws-infrastructure-baseline](https://github.com/RScrafted/aws-infrastructure-baseline)
-2. 🎉 Merged PR [#4](https://github.com/RScrafted/aws-infrastructure-baseline/pull/4) in [RScrafted/aws-infrastructure-baseline](https://github.com/RScrafted/aws-infrastructure-baseline)
-3. 🔒 Closed issue [#3](https://github.com/RScrafted/aws-infrastructure-baseline/issues/3) in [RScrafted/aws-infrastructure-baseline](https://github.com/RScrafted/aws-infrastructure-baseline)
-4. 💪 Opened PR [#4](https://github.com/RScrafted/aws-infrastructure-baseline/pull/4) in [RScrafted/aws-infrastructure-baseline](https://github.com/RScrafted/aws-infrastructure-baseline)
-5. ❗ Opened issue [#221](https://github.com/Quenary/tugtainer/issues/221) in [Quenary/tugtainer](https://github.com/Quenary/tugtainer)
+1. ℹ️ Labeled PR [#12](https://github.com/RScrafted/springboot-jenkins-k8s-automation/pull/12) in [RScrafted/springboot-jenkins-k8s-automation](https://github.com/RScrafted/springboot-jenkins-k8s-automation)
+2. 🎉 Merged PR [#12](https://github.com/RScrafted/springboot-jenkins-k8s-automation/pull/12) in [RScrafted/springboot-jenkins-k8s-automation](https://github.com/RScrafted/springboot-jenkins-k8s-automation)
+3. 🔒 Closed issue [#11](https://github.com/RScrafted/springboot-jenkins-k8s-automation/issues/11) in [RScrafted/springboot-jenkins-k8s-automation](https://github.com/RScrafted/springboot-jenkins-k8s-automation)
+4. 💪 Opened PR [#12](https://github.com/RScrafted/springboot-jenkins-k8s-automation/pull/12) in [RScrafted/springboot-jenkins-k8s-automation](https://github.com/RScrafted/springboot-jenkins-k8s-automation)
+5. ℹ️ Assigned issue [#11](https://github.com/RScrafted/springboot-jenkins-k8s-automation/issues/11) in [RScrafted/springboot-jenkins-k8s-automation](https://github.com/RScrafted/springboot-jenkins-k8s-automation)
 <!--END_SECTION:activity-->
 
 ### Today's Quote
